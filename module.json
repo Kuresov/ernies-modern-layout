@@ -1,5 +1,5 @@
 {
-  "title": "Ernie's Modern UI",
+  "title": "Ernie's Modern UI - Kuresov Fork",
   "description": "A visual update for Foundry VTT UI.",
   "version": "0.5.8",
   "authors": [
@@ -36,14 +36,14 @@
       "flags": {}
     }
   ],
-  "url": "https://github.com/ernieayala/ernies-modern-layout",
-  "manifest": "https://github.com/ernieayala/ernies-modern-layout/releases/download/0.5.7/module.json",
-  "download": "https://github.com/ernieayala/ernies-modern-layout/releases/download/0.5.7/ernies-modern-layout.zip",
+  "url": "https://github.com/Kuresov/ernies-modern-layout",
+  "manifest": "https://raw.githubusercontent.com/Kuresov/ernies-modern-layout/kuresov-master/module.json",
+  "download": "https://github.com/Kuresov/ernies-modern-layout/raw/kuresov-master/release/kuresov-ernies-modern-layout-master.zip",
   "license": "MIT",
-  "readme": "https://github.com/ernieayala/ernies-modern-layout",
-  "bugs": "https://github.com/ernieayala/ernies-modern-layout/issues",
-  "changelog": "https://github.com/ernieayala/ernies-modern-layout/releases",
-  "id": "ernies-modern-layout",
+  "readme": "https://github.com/Kuresov/ernies-modern-layout",
+  "bugs": "https://github.com/Kuresov/ernies-modern-layout/issues",
+  "id": "ernies-modern-layout-kuresov-fork",
+  "changelog": "https://github.com/Kuresov/ernies-modern-layout/blob/kuresov-master/CHANGELOG.md",
   "compatibility": {
     "minimum": "10.286",
     "verified": "10.291"
